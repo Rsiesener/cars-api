@@ -9,7 +9,7 @@ so that they can post their pictures or videos of their vehicles, and communicat
 ### Wireframe
 ![Imgur](https://i.imgur.com/eQV8jmr.jpg)
 
-### EDR
+### ERD
 ![Imgur](https://i.imgur.com/vs1KLLY.jpg)
 
 ### User Stories
@@ -18,3 +18,6 @@ so that they can post their pictures or videos of their vehicles, and communicat
   3. As a user I want to be able to update or delete my data.
   4. As a user I want to be able to sign up easily.
   4. As a admin user I want to be able to log in and delete or update any user information.
+
+### Deployed site 
+(https://rsiesener.github.io/cars-client/)
